@@ -1,0 +1,40 @@
+body {
+    background-color: lightskyblue;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Are You Serious', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Rubik Puddles', cursive;
+}
+
+.header_div {
+    background-color: lightgreen;
+    color: white;
+}
+
+.main_div button {
+    font-family: monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.footer {
+    text-align: center;
+    position: fixed;
+    color: darkslateblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: plum;
+    line-height: 3;
+    text-shadow: 5px 5px 5px lightblue;
+}
+
+.head_div p {
+    font-family: initial;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
